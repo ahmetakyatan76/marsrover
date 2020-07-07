@@ -5,10 +5,3 @@ D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cach
 D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
 D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.exe
 D:\Projects\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
-D:\Projects\test\MarsRover\bin\Debug\MarsRover.exe.config
-D:\Projects\test\MarsRover\bin\Debug\MarsRover.exe
-D:\Projects\test\MarsRover\bin\Debug\MarsRover.pdb
-D:\Projects\test\MarsRover\obj\Debug\MarsRover.csprojAssemblyReference.cache
-D:\Projects\test\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
-D:\Projects\test\MarsRover\obj\Debug\MarsRover.exe
-D:\Projects\test\MarsRover\obj\Debug\MarsRover.pdb
