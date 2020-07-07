@@ -15,6 +15,11 @@ namespace MarsRover.Models
             Y = y;
             Direction = direction;
             Squad = squad;
+
+            if (!IsInPlateauCoordinates)
+            {
+                throw new ArgumentException("Current coordinates are in the plateau cooridnates");
+            }
         }
 
         /// <summary>
