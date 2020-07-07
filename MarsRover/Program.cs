@@ -17,7 +17,7 @@ namespace AAky
             roverService.TransferRover(rover1, "LMLMLMLMM");
             roverSquad.Rovers.Add(rover1);
 
-            var rover2 = roverService.CreateRover("30 3 E", roverSquad);
+            var rover2 = roverService.CreateRover("3 3 E", roverSquad);
             roverService.TransferRover(rover2, "MMRMMRMRRM");
             roverSquad.Rovers.Add(rover2);
 
